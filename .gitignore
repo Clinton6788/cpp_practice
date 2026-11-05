@@ -1,0 +1,44 @@
+# Executables
+*.exe
+*.out
+
+# Compiled object files
+*.o
+*.obj
+
+# Libraries
+*.a
+*.lib
+*.so
+*.dll
+*.dll.a
+
+# Debug symbols
+*.pdb
+*.ilk
+*.dSYM/
+
+# Build output
+build/
+bin/
+cmake-build-*/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# IDE settings
+.vs/
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+*.bak
